@@ -1,9 +1,9 @@
 Python Unicode/XCompose Generator
 ===================================
 
-Some handy unicode tables and a script to generate XCompose files. I wrote it a while back and it may be useful for someone.
+Some handy unicode tables and a script to generate XCompose files. I wrote it a while back and am posting it since it may be useful for someone.
 
-The tables, present, are:
+The tables, presently, are:
 
  * greek
  * superscripts
